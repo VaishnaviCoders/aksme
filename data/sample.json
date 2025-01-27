@@ -1,0 +1,65 @@
+{
+  "user": {
+    "name": "Sameer Kad",
+    "age": 24,
+    "gender": "Male",
+    "birthDate": "12-07-2001",
+    "location": "India, Pune",
+    "occupation": "Full-stack developer",
+    "interests": ["Gaming", "Coding", "Football", "Watching sci-fi movies"],
+    "languages": ["English", "Hindi", "Marathi"],
+
+    "bio": "Full-stack developer specializing in Next.js, React.js, and Prisma. Passionate about futuristic UI/UX and creating scalable applications.",
+    "hobbies": [
+      "Playing football",
+      "Gaming",
+      "Coding",
+      "Watching sci-fi movies"
+    ],
+    "funFacts": {
+      "girlfriends": 2,
+      "bodyCount": 4,
+      "favoriteQuote": "Code is like humor. When you have to explain it, it’s bad."
+    },
+    "personalThings": {
+      "currentGirlfriend": "Vaishnavi",
+      "girlfriendsCount": "33",
+      "currentSport": "Volleyball",
+      "bodyCount": "12"
+    },
+    "sports": ["Football", "Cricket"],
+    "codingLanguages": ["JavaScript", "TypeScript", "Python", "Java"],
+    "frameworksAndTools": [
+      "Next.js",
+      "React.js",
+      "ShadCN",
+      "Tailwind CSS",
+      "Prisma",
+      "Supabase",
+      "Framer Motion",
+      "Three.js"
+    ],
+    "projects": [
+      {
+        "name": "School Management CRM",
+        "description": "A multi-tenant application for managing school operations, including attendance, grades, and holidays.",
+        "technologies": ["Next.js", "Prisma", "Supabase", "Tailwind CSS"]
+      },
+      {
+        "name": "Cube Competition Leaderboard",
+        "description": "A dynamic leaderboard with filtering options by age categories and cube types.",
+        "technologies": ["Next.js", "Prisma", "Framer Motion", "Tailwind CSS"]
+      },
+      {
+        "name": "Cryptocurrency Platform",
+        "description": "Platform for buying BTC/USDT and selling in India with real-time pricing updates.",
+        "technologies": ["Next.js", "Node.js", "Supabase"]
+      }
+    ],
+    "goals": [
+      "Master futuristic UI design",
+      "Build scalable applications with real-time features",
+      "Contribute to open-source projects"
+    ]
+  }
+}
